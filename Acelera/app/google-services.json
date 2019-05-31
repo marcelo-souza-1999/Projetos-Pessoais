@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741654113833",
+    "firebase_url": "https://safe-house-92904.firebaseio.com",
+    "project_id": "safe-house-92904",
+    "storage_bucket": "safe-house-92904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741654113833:android:1823754d7ebb6090",
+        "android_client_info": {
+          "package_name": "com.example.safehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741654113833-jdtgtgn6tuamiu0vvmcl2075v6o0tef2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safehouse",
+            "certificate_hash": "75b67d8835dc167f61d6fb1101f6ce2fa25fa177"
+          }
+        },
+        {
+          "client_id": "741654113833-269vqftgu9k8f6f758fp43mpr4snhdp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA8l6CEzVxuyMFWfQvEHW1wM75RJJ6uzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741654113833-269vqftgu9k8f6f758fp43mpr4snhdp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
